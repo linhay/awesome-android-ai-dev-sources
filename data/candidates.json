@@ -1,18 +1,19 @@
 {
-  "candidates": [],
   "scan_sources": [
-    "obsidian-mining:X 文章/2026-06-23-1239-AnatoliKopadze-Loops explained Claude GPT Mira and what actually works.md",
-    "obsidian-mining:X 文章/2026-06-23-1239-MengkePM-成就伟大之前，先学会卖东西.md",
-    "obsidian-mining:X 文章/2026-06-23-1239-thedankoe-How to survive AI mass replacement.md",
-    "obsidian-mining:Cubox/公平运行内存适配：开发者文档-2026-06-23.md",
-    "obsidian-mining:Cubox/努比亚ALL IN豆包AI手机，传统手机业务说停就停-2026-06-22.md",
-    "obsidian-mining:Cubox/成就伟大之前，先学会卖东西-2026-06-22.md",
-    "obsidian-mining:Android-Internal-Wiki/changelog/2026-06-23.md",
-    "obsidian-mining:Android-Internal-Wiki/changelog/2026-06-19.md",
-    "obsidian-mining:Android-Internal-Wiki/changelog/2026-06-18.md"
+    "obsidian-mining:X 文章/2026-07-03-1239-0xCheshire-转发一下B站博主的锐评PPTskills.md",
+    "obsidian-mining:X 文章/2026-07-03-1239-_avichawla-Promptengineeringloo.md",
+    "obsidian-mining:X 文章/2026-07-03-1239-gengdaJ-最近这几个月分享了太多关于Codex的玩.md",
+    "obsidian-mining:X 文章/2026-07-03-1239-zjp1997720-摁头推荐Codex必安的一个插件.md",
+    "obsidian-mining:X 文章/2026-07-03-1239-canghe-泊舟大佬的Codex橙皮书.md",
+    "obsidian-mining:X 文章/2026-07-03-1239-xiaogaifun-吴恩达三言两语就把LoopEnginee.md",
+    "obsidian-mining:X 文章/2026-07-03-1239-fi56622380-AI半导体终局推演2026II.md",
+    "obsidian-mining:X 文章/2026-07-03-1239-grapeot-LoopEngineering这个词最近.md",
+    "web-scan:juejin.cn/tag/Android/frontend (页面找不到)",
+    "web-scan:github.com/saveweb/rss-list/releases (获取到OPML列表源，非具体技术源)"
   ],
-  "scan_notes": "本次扫描发现 AnatoliKopadze（AI loops 专家）为新高质量候选，专注 AI 工程架构领域；MengkePM 偏营销内容，thedankoe 偏创业自媒体，均不符合技术源标准；Cubox 文章均为单篇内容页，不符合 README 资格；Android-Internal-Wiki 内部更新日志不包含外部开发者源",
+  "scan_notes": "今日扫描8个本地Obsidian X文章源，2个外部源：1. 掘金Android热门页面无法访问；2. saveweb/rss-list提供OPML列表聚合，但非具体技术源。X文章中canghe、fi56622380、grapeot、zjp1997720、xiaogaifun、_avichawla均为活跃技术博主，但需要提取主页/profile做长期源判断。gengdaJ内容偏软技能，0xCheshire为PPT技巧，不符合技术源标准。",
   "processed_count": 10,
-  "processed_date": "2026-06-24",
-  "new_candidates": 0
+  "processed_date": "2026-07-03",
+  "new_candidates": 0,
+  "candidates": []
 }

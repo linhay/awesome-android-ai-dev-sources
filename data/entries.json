@@ -2,7 +2,7 @@
   "schema": "3.0",
   "name": "Awesome Android AI Dev Sources",
   "description": "开发者高质量信息源导航 — Android · AI · 工程效率 · 每日自动发现",
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "categories": [
     {
       "id": "android-official",
@@ -36,6 +36,58 @@
     }
   ],
   "entries": [
+    {
+      "id": "canghe-twitter",
+      "name": "苍何 (canghe)",
+      "category": "ai",
+      "author": "苍何",
+      "desc": "前阿里工程师、Microsoft MVP，AI Builder / 开源创作者，主攻 Agent、Skills、MCP 与 AI-native 产品，个人主页 canghe.ai 汇总了产品/社群/深度内容",
+      "links": {
+        "x": "https://x.com/canghe",
+        "blog": "https://canghe.ai"
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "mcp",
+        "skills",
+        "open-source",
+        "x",
+        "blog"
+      ],
+      "quality": 4,
+      "readme": {
+        "eligible": true,
+        "reason": "长期信息源"
+      },
+      "added_date": "2026-07-05"
+    },
+    {
+      "id": "_avichawla-twitter",
+      "name": "Avi Chawla (_avichawla)",
+      "category": "ai",
+      "author": "Avi Chawla",
+      "desc": "Daily Dose of DS 联合创始人，IIT Varanasi 校友，长期输出 DS/ML/LLM/RAG 教程与 Claude Code 命令速查等 AI 工程实践",
+      "links": {
+        "x": "https://x.com/_avichawla",
+        "newsletter": "https://www.dailydoseofds.com/"
+      },
+      "tags": [
+        "ai",
+        "llm",
+        "rag",
+        "claude-code",
+        "newsletter",
+        "tutorial",
+        "x"
+      ],
+      "quality": 4,
+      "readme": {
+        "eligible": true,
+        "reason": "长期信息源"
+      },
+      "added_date": "2026-07-05"
+    },
     {
       "id": "anatolikopadze-twitter",
       "name": "AnatoliKopadze",
